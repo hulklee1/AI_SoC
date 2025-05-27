@@ -28,10 +28,19 @@ long_line_behaviour=1
 long_line_column=72
 
 [files]
+<<<<<<< HEAD
 current_page=2
 FILE_NAME_0=389;C;0;EUTF-8;1;1;0;%2Fhome%2Fpi%2FWork%2Ftest%2Fstep.c;0;4
 FILE_NAME_1=0;C++;0;EUTF-8;0;1;0;%2Fusr%2Flocal%2Finclude%2FwiringPi.h;0;2
 FILE_NAME_2=483;C;0;EUTF-8;1;1;0;%2Fhome%2Fpi%2FWork%2Ftest%2Fservo.c;0;4
+=======
+current_page=4
+FILE_NAME_0=321;Python;0;EUTF-8;1;1;0;%2Fhome%2Fpi%2FWork%2Fcvtest%2Fcvtest.py;0;4
+FILE_NAME_1=826;Python;0;EUTF-8;0;1;0;%2Fhome%2Fpi%2FWork%2Fcvtest%2Fcv1.py;0;4
+FILE_NAME_2=140;Python;0;EUTF-8;1;1;0;%2Fhome%2Fpi%2FWork%2Fcvtest%2Ftbtest.py;0;4
+FILE_NAME_3=563;Python;0;EUTF-8;0;1;0;%2Fhome%2Fpi%2FWork%2Fcvtest%2Fcomp.py;0;4
+FILE_NAME_4=67;Python;0;EUTF-8;1;1;0;%2Fhome%2Fpi%2FWork%2Fytest%2Fytest.py;0;4
+>>>>>>> c1d581fa40194311f8de414e3dc51e2d48648169
 
 [VTE]
 last_dir=/home/pi
@@ -40,6 +49,9 @@ last_dir=/home/pi
 EX_00_LB=_Execute
 EX_00_CM=/home/pi/yolov5/test/bin/python3 "%f"
 EX_00_WD=
+<<<<<<< HEAD
 EX_01_LB=
 EX_01_CM=/home/pi/yolov5/test/bin/python3 "%f"
 EX_01_WD=python3 "%f"
+=======
+>>>>>>> c1d581fa40194311f8de414e3dc51e2d48648169
